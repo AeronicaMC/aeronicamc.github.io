@@ -16,12 +16,12 @@
 title: AeronicaMC Pages
 email: pboese@aeronica.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AeronicaMC organization github pages site. Hosts blog posts related
+  to mods written for a popular java based mining, crafting, adventuring, PVPing and exploration
+  voxel game.
 twitter_username: kuroboese
 github_username: Aeronica
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 search: true
 url: https://aeronicamc.github.io
 baseurl: 
@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Aeronica"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hobbyist modder."
+  bio    : "AeronicaMC organization owner and hobbyist modder."
   links:
     - label: "Blogger"
       icon: "fas fa-fw fa-link"
@@ -79,10 +79,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://twitter.com/kuroboese"
+    - label: "GitHub Personal"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Aeronica"
+    - label: "GitHub Organization"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AeronicaMC"
 
 defaults:
   # _posts
