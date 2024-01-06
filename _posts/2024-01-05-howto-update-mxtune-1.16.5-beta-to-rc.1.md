@@ -8,6 +8,8 @@ tags:
   - update
   - "1.16.5"
 classes: wide
+header:
+  og_image: /assets/images/mxtune-og.png
 ---
 
 #### How to update a save/world from ``mxtune-1.16.5-2.0.0-beta-2023-12-08.76721460`` to ``mxtune-1.16.5-3.0.0-rc-1``
