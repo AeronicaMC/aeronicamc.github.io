@@ -26,31 +26,31 @@ If you are not upgrading a world and just starting a new world then you can igno
 
 {% include figure image_path="/assets/images/mxtune-server-conf-pre-dump.png"%}
 
-  5) Start the client and/or server as appropriate and enter the world. 
+  4) Start the client and/or server as appropriate and enter the world. 
 
-  6) With owner/op rights excute the comand ``/mxtune music dump``. This can also be done from the server terminal/console: ``mxtune music
+  5) With owner/op rights excute the comand ``/mxtune music dump``. This can also be done from the server terminal/console: ``mxtune music
 dump``
 
 {% include figure image_path="/assets/images/mxtune-dump-execute.png"%}
 
-  7) The number of records will be displayed/logged. The number depends on how may pieces of Sheet Music were created for all players. 
+  6) The number of records will be displayed/logged. The number depends on how may pieces of Sheet Music were created for all players. 
 
-  8) Stop the game/server. 
+  7) Stop the game/server. 
 
 {% include figure image_path="/assets/images/mxtune-dump-result.png"%}
 
-  9) Replace the mxtune jar with the new version mxtune-1.16.5-3.0.0-rc-1. 
+  8) Replace the mxtune jar with the new version mxtune-1.16.5-3.0.0-rc-1. 
 
-  10) Start the game/server and review the mxtune-server.toml. Confirm ``sheetMusicExpires = false`` 
+  9) Start the game/server and review the mxtune-server.toml. Confirm ``sheetMusicExpires = false`` 
 
 {% include figure image_path="/assets/images/mxtune-server-conf-pre-convert.png"%}
 
-  11) With op rights execute the command ``/mxtune music convert``. This can also be done from the server terminal/console: ``mxtune music
+  10) With op rights execute the command ``/mxtune music convert``. This can also be done from the server terminal/console: ``mxtune music
 convert``. 
 
 {% include figure image_path="/assets/images/mxtune-convert-execute.png"%}
 
-  12) Number of files written will be displayed/logged. The number depends on how may pieces of Sheet Music were created for all players. 
+  11) Number of files written will be displayed/logged. The number depends on how may pieces of Sheet Music were created for all players. 
 
 {% include figure image_path="/assets/images/mxtune-convert-result.png"%}
 
